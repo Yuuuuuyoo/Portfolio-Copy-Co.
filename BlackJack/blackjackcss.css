@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background: #eeeeee;
+    text-align: center;
+    color: #ffffff;
+}
+
+#title{
+    margin-top: 70px;
+    margin-bottom: 30px;
+    color: #002553;
+    font-size: 62px;
+    font-weight: bold;
+}
+
+#canvas{
+    margin: auto;
+}
+
+#startnewgame{
+    margin-top: 10px;
+    height: 40px;
+    font-size: 20px;
+    color: #002d4e;
+}
+
+#btn div{
+    display: inline-block;
+}
+
+#yohaku{
+    margin-top: 100px;
+}
