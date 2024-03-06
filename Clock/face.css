@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(210, 244, 250);
+    margin: 0;
+    padding: 0;
+}
+
+#A{
+    height: 50px;
+}
+
+#dateP{
+    width: 500px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+#canvasP{
+    /* background-color:whitesmoke; */
+    width: 500px;
+    height: 520px;
+    margin: 0 auto;
+}
+
+#DATEP{
+    width: 500px;
+    height: 120px;
+    margin: 0 auto;
+}
