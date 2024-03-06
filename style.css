@@ -1,6 +1,9 @@
 body{
-  text-align: center;
   background-color: #E6F2FF;
+}
+
+main{
+  text-align: center;
   margin-top: 120px;
 }
 
